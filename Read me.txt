@@ -1,0 +1,5 @@
+Profe por problemas de conexión le enviamos
+el enlace de GitHub con la implementación
+y el informe.
+
+https://github.com/OscarRuiz15/MaratonIA
